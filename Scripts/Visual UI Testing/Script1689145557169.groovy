@@ -21,8 +21,6 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('twitter.com')
 
-WebUI.delay(5)
-
 WebUI.takeScreenshotAsCheckpoint('viewOne')
 
 WebUI.closeBrowser()
