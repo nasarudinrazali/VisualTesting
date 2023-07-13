@@ -23,7 +23,5 @@ WebUI.navigateToUrl('twitter.com')
 
 WebUI.delay(5)
 
-WebUI.takeScreenshotAsCheckpoint('current_Viewport')
-
 WebUI.closeBrowser()
 
