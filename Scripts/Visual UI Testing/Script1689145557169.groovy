@@ -23,5 +23,7 @@ WebUI.navigateToUrl('twitter.com')
 
 WebUI.delay(5)
 
+WebUI.takeScreenshot()
+
 WebUI.closeBrowser()
 
