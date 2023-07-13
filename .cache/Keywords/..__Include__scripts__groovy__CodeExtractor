@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "73A4DA583590E62385F48C0530160A9D",
+  "keywordClasses": [
+    {
+      "name": "CodeExtractor",
+      "keywordMethods": [
+        {
+          "name": "extract",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

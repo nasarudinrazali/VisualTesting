@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "F351CE08878FC5C334CC607F17C91BBF",
+  "keywordClasses": [
+    {
+      "name": "EmailHelper",
+      "keywordMethods": [
+        {
+          "name": "startExecution",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

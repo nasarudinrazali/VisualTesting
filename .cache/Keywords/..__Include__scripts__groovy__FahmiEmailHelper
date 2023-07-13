@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "1444E71180261AFA182419EEB4403C6D",
+  "keywordClasses": [
+    {
+      "name": "FahmiEmailHelper",
+      "keywordMethods": [
+        {
+          "name": "runEmail",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
